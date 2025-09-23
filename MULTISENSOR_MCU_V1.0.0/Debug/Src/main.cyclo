@@ -1,0 +1,7 @@
+../Src/main.c:63:5:main	1
+../Src/main.c:85:13:I2C_Master_Init	1
+../Src/main.c:173:1:TemHumSensor_readRegister	4
+../Src/main.c:211:9:CalculateCRC8	4
+../Src/main.c:248:10:TemHumSensor_getTemperature	2
+../Src/main.c:271:10:TemHumSensor_getHumidity	2
+../Src/main.c:295:13:processGetValueSensor	3

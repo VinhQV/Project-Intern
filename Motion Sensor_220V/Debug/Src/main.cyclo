@@ -1,0 +1,8 @@
+../Src/main.c:63:13:Led_Init	1
+../Src/main.c:83:13:Motion_Sensor_Init	1
+../Src/main.c:103:13:Buzzer_Init	1
+../Src/main.c:115:13:Led_Control	3
+../Src/main.c:126:13:Buzzer_Control	3
+../Src/main.c:137:6:Delay_ms	3
+../Src/main.c:144:16:Sensor_GetLogic	1
+../Src/main.c:150:5:main	4

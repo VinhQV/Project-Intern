@@ -1,0 +1,14 @@
+../Src/main.c:80:5:main	8	static
+../Src/main.c:94:6:AppInitCommon	16	static
+../Src/main.c:117:13:AppStateManager	16	static
+../Src/main.c:142:13:SetStateApp	16	static
+../Src/main.c:148:20:GetStateApp	4	static
+../Src/main.c:155:6:LoadConfiguration	16	static
+../Src/main.c:166:6:DeviceStateMachine	32	static
+../Src/main.c:340:13:Up_multiSensorScan	16	static
+../Src/main.c:346:13:Down_multiSensorScan	16	static
+../Src/main.c:352:13:Right_Up_LightScan	16	static
+../Src/main.c:358:13:Left_Down_LightScan	16	static
+../Src/main.c:365:6:delay_ms	24	static
+../Src/main.c:374:13:Task_multiSensorScan	24	static
+../Src/main.c:396:13:MultiSensorScan	24	static

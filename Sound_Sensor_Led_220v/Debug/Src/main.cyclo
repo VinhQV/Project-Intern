@@ -1,0 +1,7 @@
+../Src/main.c:38:13:TimeBasic_Init	1
+../Src/main.c:53:13:Led_Init	1
+../Src/main.c:72:13:Sound_Sensor_Init	1
+../Src/main.c:90:13:Led_Control	3
+../Src/main.c:101:16:Sound_Sensor_GetLogic	1
+../Src/main.c:106:6:Delay_ms	3
+../Src/main.c:118:5:main	3

@@ -1,0 +1,14 @@
+../Inc/i2c-lcd-baremetal-f4.c:4:6:delay_ms_f4	24	static
+../Inc/i2c-lcd-baremetal-f4.c:12:6:i2c_init	4	static
+../Inc/i2c-lcd-baremetal-f4.c:49:6:i2c_start	4	static
+../Inc/i2c-lcd-baremetal-f4.c:55:6:i2c_stop	4	static
+../Inc/i2c-lcd-baremetal-f4.c:60:6:i2c_write	16	static
+../Inc/i2c-lcd-baremetal-f4.c:66:6:i2c_send_address	24	static
+../Inc/i2c-lcd-baremetal-f4.c:75:6:lcd_write_i2c	16	static
+../Inc/i2c-lcd-baremetal-f4.c:82:6:lcd_send_4bits	24	static
+../Inc/i2c-lcd-baremetal-f4.c:90:6:lcd_send_cmd	24	static
+../Inc/i2c-lcd-baremetal-f4.c:97:6:lcd_send_data	24	static
+../Inc/i2c-lcd-baremetal-f4.c:104:6:lcd_init	8	static
+../Inc/i2c-lcd-baremetal-f4.c:120:6:lcd_send_string	16	static
+../Inc/i2c-lcd-baremetal-f4.c:126:6:lcd_clear	8	static
+../Inc/i2c-lcd-baremetal-f4.c:131:6:lcd_set_cursor	24	static

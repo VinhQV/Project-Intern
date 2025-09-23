@@ -1,0 +1,7 @@
+../Src/main.c:63:5:main	16	static
+../Src/main.c:85:13:I2C_Master_Init	32	static
+../Src/main.c:173:1:TemHumSensor_readRegister	40	static
+../Src/main.c:211:9:CalculateCRC8	24	static
+../Src/main.c:248:10:TemHumSensor_getTemperature	32	static
+../Src/main.c:271:10:TemHumSensor_getHumidity	32	static
+../Src/main.c:295:13:processGetValueSensor	24	static
